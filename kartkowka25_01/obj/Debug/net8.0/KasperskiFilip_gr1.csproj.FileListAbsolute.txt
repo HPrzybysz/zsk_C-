@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\KasperskiFilip_gr1\bin\Debug\net8.0\KasperskiFilip_gr1.exe
+C:\Users\student\Desktop\KasperskiFilip_gr1\bin\Debug\net8.0\KasperskiFilip_gr1.deps.json
+C:\Users\student\Desktop\KasperskiFilip_gr1\bin\Debug\net8.0\KasperskiFilip_gr1.runtimeconfig.json
+C:\Users\student\Desktop\KasperskiFilip_gr1\bin\Debug\net8.0\KasperskiFilip_gr1.dll
+C:\Users\student\Desktop\KasperskiFilip_gr1\bin\Debug\net8.0\KasperskiFilip_gr1.pdb
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.AssemblyInfo.cs
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.dll
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\refint\KasperskiFilip_gr1.dll
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.pdb
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.genruntimeconfig.cache
+C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\ref\KasperskiFilip_gr1.dll
