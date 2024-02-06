@@ -1,27 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Desktop\\KasperskiFilip_gr1\\KasperskiFilip_gr1.csproj": {}
+    "C:\\Users\\niewi\\Downloads\\C#\\kartkowka25_01\\KasperskiFilip_gr1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Desktop\\KasperskiFilip_gr1\\KasperskiFilip_gr1.csproj": {
+    "C:\\Users\\niewi\\Downloads\\C#\\kartkowka25_01\\KasperskiFilip_gr1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\KasperskiFilip_gr1\\KasperskiFilip_gr1.csproj",
+        "projectUniqueName": "C:\\Users\\niewi\\Downloads\\C#\\kartkowka25_01\\KasperskiFilip_gr1.csproj",
         "projectName": "KasperskiFilip_gr1",
-        "projectPath": "C:\\Users\\student\\Desktop\\KasperskiFilip_gr1\\KasperskiFilip_gr1.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\KasperskiFilip_gr1\\obj\\",
+        "projectPath": "C:\\Users\\niewi\\Downloads\\C#\\kartkowka25_01\\KasperskiFilip_gr1.csproj",
+        "packagesPath": "C:\\Users\\niewi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niewi\\Downloads\\C#\\kartkowka25_01\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\niewi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {}
         },
         "frameworks": {
           "net8.0": {

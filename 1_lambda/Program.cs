@@ -11,15 +11,15 @@ namespace _1_lambda
   {
     static void Main(string[] args)
     {
-      int n = ReadInt("Podaj liczbę osób:", 0, int.MaxValue);
+      int n = ReadInt("Podaj liczbę osób: ", 0, int.MaxValue);
 
       string[] names = new string[n];
       int[] ages = new int[n];
 
       for (int i = 0; i < n; i++)
       {
-        names[i] = ReadString($"Podaj imię osoby {i + 1}:");
-        ages[i] = ReadInt($"Podaj wiek osoby {i + 1}:", 0, 150);
+        names[i] = ReadString($"Podaj imię osoby {i + 1}: ");
+        ages[i] = ReadInt($"Podaj wiek osoby {i + 1}: ", 0, 150);
       }
 
       List<string> namesWithA = names.Where(name => name.StartsWith("A", StringComparison.OrdinalIgnoreCase)).ToList();

@@ -1,0 +1,7 @@
+C:\Users\niewi\Downloads\C#\1_lambda\bin\Debug\1_lambda.exe.config
+C:\Users\niewi\Downloads\C#\1_lambda\bin\Debug\1_lambda.exe
+C:\Users\niewi\Downloads\C#\1_lambda\bin\Debug\1_lambda.pdb
+C:\Users\niewi\Downloads\C#\1_lambda\obj\Debug\1_lambda.csproj.AssemblyReference.cache
+C:\Users\niewi\Downloads\C#\1_lambda\obj\Debug\1_lambda.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Downloads\C#\1_lambda\obj\Debug\1_lambda.exe
+C:\Users\niewi\Downloads\C#\1_lambda\obj\Debug\1_lambda.pdb

@@ -12,3 +12,10 @@ C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\refint\KasperskiFil
 C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.pdb
 C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\KasperskiFilip_gr1.genruntimeconfig.cache
 C:\Users\student\Desktop\KasperskiFilip_gr1\obj\Debug\net8.0\ref\KasperskiFilip_gr1.dll
+C:\Users\niewi\Downloads\C#\kartkowka25_01\obj\Debug\net8.0\KasperskiFilip_gr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niewi\Downloads\C#\kartkowka25_01\obj\Debug\net8.0\KasperskiFilip_gr1.AssemblyInfoInputs.cache
+C:\Users\niewi\Downloads\C#\kartkowka25_01\obj\Debug\net8.0\KasperskiFilip_gr1.AssemblyInfo.cs
+C:\Users\niewi\Downloads\C#\kartkowka25_01\obj\Debug\net8.0\KasperskiFilip_gr1.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Downloads\C#\kartkowka25_01\obj\Debug\net8.0\KasperskiFilip_gr1.dll
+C:\Users\niewi\Downloads\C#\kartkowka25_01\obj\Debug\net8.0\refint\KasperskiFilip_gr1.dll
+C:\Users\niewi\Downloads\C#\kartkowka25_01\obj\Debug\net8.0\KasperskiFilip_gr1.pdb
